@@ -14,8 +14,8 @@ This project is designed to develop a RESTful API for a blog application. Users 
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/harnkya/Blog-Management-API
+   cd Blog-Management-API
    ```
 
 2. Create and activate a virtual environment:
